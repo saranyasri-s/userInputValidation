@@ -1,0 +1,21 @@
+.UserInput {
+  padding: 1rem;
+  text-align: start;
+  box-sizing: border-box;
+}
+.UserInput p {
+  margin: 0;
+  font-weight: bolder;
+}
+.UserInput input {
+  display: block;
+  width: 96%;
+  margin: 0.3rem 0;
+}
+.UserInput button {
+  background-color: #642664;
+  color: white;
+
+  border-radius: 5px;
+  padding: 0.3rem 0.3rem;
+}

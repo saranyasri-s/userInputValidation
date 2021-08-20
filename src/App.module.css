@@ -1,4 +1,19 @@
 .App {
   text-align: center;
 }
-
+.background {
+  position: fixed;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  background-color: #3d1364;
+  top: 0;
+}
+.App section {
+  width: 60%;
+  margin: 2rem auto;
+  background-color: white;
+  border: 1px solid #3d1364;
+  border-radius: 5px;
+  padding: 1 rem;
+}
